@@ -8,14 +8,14 @@
 ## Experience
 
 ##### Software Developer:
-* Evoltuion Collect - Skokie, IL
+* Evoltuion Collect - Skokie, IL - Laravel/Vue
 * January 2021 to Present
 > As software developer my responsibilities include collaborating on development roadmap, development
 of new features, and support existing features such as debugging and customer support issues.
 ----------
 
 **Founder and CEO:**
-* Keeper, LLC - Milwaukee, WI
+* Keeper, LLC - Milwaukee, WI - Laravel/Vue
 * April 2020 to Present
 > Inception, planning, designing, and eventually developing SMS product built to be used closely by
 HubSpot customers to take advantage of Twilio provided SMS solutions. As small team lead, my
@@ -23,7 +23,7 @@ responsibleness also included SCRUM management and reviewing protentional candid
 ----------
 
 **Lead Developer:**
-* SalesMessage, LLC - Delray Beach, FL
+* SalesMessage, LLC - Delray Beach, FL - Laravel/Vue/React
 * January 2017 to April 2020
 > As lead developer I was responsible for working with product mangers and project leads to integrate
 a consistent development cycle including roadmaps. As well as take part in feature development and
